@@ -3,6 +3,8 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.6'
 
+gem 'dotenv-rails', groups: [:development, :test]
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.3', '>= 6.1.3.1'
 # Use sqlite3 as the database for Active Record
@@ -27,6 +29,10 @@ gem 'jbuilder', '~> 2.7'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
+gem 'font-awesome-sass'
+gem 'geocoder'
+gem 'rails-i18n'
+gem 'tel_to_helper'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
