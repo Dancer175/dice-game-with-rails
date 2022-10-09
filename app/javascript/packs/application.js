@@ -11,3 +11,9 @@ import "channels"
 Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
+
+import { turnPages } from '../components/turn_pages';
+
+document.addEventListener('turbolinks:load', () => {
+  turnPages();
+})
