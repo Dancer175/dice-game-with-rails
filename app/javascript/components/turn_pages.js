@@ -19,6 +19,16 @@ const turnPages = () => {
     return backPagesToArray.indexOf(backPage);
   };
 
+  // get index of element after clicked backPage
+  const indexOfTurnPagePlusOne = (turnPage) => {
+    return indexOfBackPage(turnPage) + 1;
+  };
+
+  // get value of element after clicked backPage
+  const valueOfTurnPagePlusOne = (turnPage) => {
+    return turnPagesToArray[indexOfTurnPagePlusOne(turnPage)];
+  };
+
   // get zIndex of turnPage
   const zIndexOfTurnPage = (turnPage) => {
     return turnPagesToArray.indexOf(turnPage);
@@ -58,7 +68,7 @@ const turnPages = () => {
 
   // adds to zIndex after active
   const zIndexAfter = (turnPage) => {
-    let num = turnPagesToArray.length + zIndexOfTurnPage(turnPage) * 2;
+    let num = turnPagesToArray.length + zIndexOfTurnPage(turnPage);
     return num.toString();
   };
 
@@ -66,6 +76,8 @@ const turnPages = () => {
   turnPagesToArray.forEach(turnPage => turnPage.style.zIndex = zIndexOfPage(turnPage));
   // logs zIndex of all Pages in the beginning
   turnPagesToArray.forEach(turnPage => console.log(zIndexOfPage(turnPage)));
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
   // adds active to turnPage belonging to clicked frontPage
   frontPagesToArray.forEach((frontPage) => {
@@ -82,19 +94,20 @@ const turnPages = () => {
   // removes active from turnPage belonging to clicked backPage
   backPagesToArray.forEach((backPage) => {
     backPage.addEventListener('click', (event) => {
-        // gives active elements active order and inactive elements inactive order
-        backPagesToArray.forEach((backPage) => {
-        if (valueOfTurnPageBack(backPage).classList.contains("active")) {
-          valueOfTurnPageBack(backPage).style.zIndex = zIndexActive(turnPagesToArray[indexOfBackPage(backPage)]);
-
-        } else {
-            turnPagesToArray.forEach(turnPage => turnPage.style.zIndex = zIndexOfPage(turnPage));
-        }
-      });
     // removes active category of clicked backPage
     valueOfTurnPageBack(backPage).classList.remove("active");
     // changes zIndex of clicked backPage
-    valueOfTurnPageBack(backPage).style.zIndex = zIndexAfter(turnPagesToArray[indexOfBackPage(backPage)]);
+    console.log(indexOfBackPage(backPage));
+
+     if (indexOfBackPage(backPage) == 0) {
+      valueOfTurnPageBack(backPage).style.zIndex = zIndexOfPage(turnPagesToArray[indexOfBackPage(backPage) - 1]);
+      valueOfTurnPagePlusOne(backPage).style.zIndex = zIndexOfPage(turnPagesToArray[indexOfBackPage(backPage)]);
+     }
+
+    if (valueOfTurnPagePlusOne(backPage) != null) {
+      valueOfTurnPagePlusOne(backPage).style.zIndex = zIndexOfPage(turnPagesToArray[indexOfBackPage(backPage) + 1]);
+    }
+    console.log(valueOfTurnPagePlusOne(backPage));
     // logs zIndex of Page when removing active category
     console.log(zIndexAfter(turnPagesToArray[indexOfBackPage(backPage)]))
     });
@@ -102,3 +115,4 @@ const turnPages = () => {
 }
 
 export { turnPages };
+
