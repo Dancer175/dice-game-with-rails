@@ -13,7 +13,10 @@ Turbolinks.start()
 ActiveStorage.start()
 
 import { turnPages } from '../components/turn_pages';
+import { initLanguageBar } from '../components/init_language_bar';
+
 
 document.addEventListener('turbolinks:load', () => {
   turnPages();
+  initLanguageBar();
 })

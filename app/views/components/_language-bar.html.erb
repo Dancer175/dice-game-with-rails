@@ -1,0 +1,12 @@
+<div class="language-bar">
+  <div id="open-language-bar">
+    <%= I18n.locale.upcase%>
+  </div>
+  <div class="language-choice">
+    <% ["en", "de", "fr", "it"].each do |x| %>
+      <% if x != I18n.locale.to_s %>
+        <li class="language" id= <% x %>><%= link_to x.upcase, controller: controller_name, action: action_name, locale: x  %></li>
+      <% end %>
+    <% end %>
+  </div>
+</div>

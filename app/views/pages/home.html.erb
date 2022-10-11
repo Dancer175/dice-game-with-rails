@@ -1,11 +1,4 @@
-<!-- <h1><%= t('hello') %></h1>
-
-<ul class="language-bar">
-  <li class="language" id="en"><%= link_to "English", controller: controller_name, action: action_name, locale: "en"  %></li>
-  <li class="language" id="de"><%= link_to "Deutsch", controller: controller_name, action: action_name, locale: "de"  %></li>
-  <li class="language" id="fr"><%= link_to "Français", controller: controller_name, action: action_name, locale: "fr"  %></li>
-  <li class="language" id="it"><%= link_to "Italiano", controller: controller_name, action: action_name, locale: "it"  %></li>
-</ul> -->
+<%= render 'components/language-bar' %>
 
 <div class="cover">
   <div class="book">
@@ -16,5 +9,6 @@
     <%= render 'book_pages/page_8_and_9' %>
     <%= render 'book_pages/page_10_and_11' %>
     <%= render 'book_pages/page_12_and_13' %>
+    <%= render 'book_pages/page_14_and_15' %>
   </div>
 </div>

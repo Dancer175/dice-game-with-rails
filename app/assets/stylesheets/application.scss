@@ -49,9 +49,9 @@ body {
 }
 
 .cover {
-  width: calc(var(--baseline) * 90);
-  height: calc(var(--baseline) * 63.9);
-  box-shadow: 0 0 100px rgba(0, 0, 0, .3);
+  width: 124vh;
+  height: 84vh;
+  box-shadow: 0px 0px 50px rgba(0, 0, 0, .8);
 }
 
 .book__page-sheets.active {
@@ -127,18 +127,18 @@ body {
 
       &-book-title {
         font-family: var(--book-title);
-        font-size: calc(var(--base-size) * 3);
+        font-size: 6vh;
         font-weight: bold;
         text-transform: uppercase;
         letter-spacing: 3px;
         color: var(--dark-text);
-        margin-top: calc(var(--baseline) * 5);
-        margin-bottom: calc(var(--baseline) * 2);
+        margin-top: 4vh;
+        margin-bottom: 4vh;
       }
 
       &-author {
         font-family: var(--title);
-        font-size: calc(var(--base-size) * 1.2);
+        font-size: 2vh;
         font-weight: 100;
         text-transform: uppercase;
         color: var(--dark-text);
@@ -146,26 +146,26 @@ body {
         border-bottom: 1px solid var(--dark-text);
         display: inline-block;
         padding: calc(var(--baseline) / 2) calc(var(--baseline) / 5);
-        margin-bottom: calc(var(--baseline) * 6);
+        margin-bottom: 4vh;
       }
 
       &-credits {
         font-family: var(--title);
         text-transform: uppercase;
-        font-size: calc(var(--base-size) * 0.8);
-        margin-bottom: calc(var(--baseline) * 2);
+        font-size: 2vh;
+        margin-bottom: 2vh;
         letter-spacing: 1px;
 
         span {
           display: block;
-          font-size: calc(var(--base-size) * 1.2);
+          font-size: 3vh;
           letter-spacing: 0;
         }
 
         img {
           width: 50%;
           height: auto;
-          margin-top: 10%;
+          margin-top: 4vh;
         }
       }
 
@@ -174,7 +174,7 @@ body {
         width: calc(100% - (var(--baseline) * 2));
         bottom: calc(var(--baseline) * 2);
         font-family: var(--title);
-        font-size: calc(var(--base-size) * 0.8);
+        font-size: 2vh;
         text-transform: uppercase;
       }
 
