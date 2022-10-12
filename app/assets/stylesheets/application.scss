@@ -139,6 +139,7 @@ body {
       transform: none;
       transform-origin: none;
       width: 100%;
+      height: auto;
       cursor-event: none;
       cursor: default;
       display: flex;
@@ -215,9 +216,10 @@ body {
         cursor: default;
         position: relative;
         display: flex;
-        height: 90vh;
+        height: auto;
         width: 66vh;
         display: flex;
+        overflow-y: hidden;
       }
     }
 
@@ -240,8 +242,9 @@ body {
         position: relative;
         display: flex;
         width: 66vh;
-        height: 90vh;
+        height: auto;
         background-color: #D3D7CF;
+        overflow-y: hidden;
       }
     }
 
@@ -254,7 +257,8 @@ body {
 
       @-moz-document url-prefix() {
         width: 66vh;
-        height: 90vh;
+        height: auto;
+        min-height: 90vh;
         margin-bottom: 40px;
       }
       &-book-title {
