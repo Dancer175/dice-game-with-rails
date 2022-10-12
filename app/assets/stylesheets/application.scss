@@ -586,7 +586,6 @@ body {
   .cover {
     width: 100vw;
     height: 88vh;
-    margin-top: 6vh;
   }
 
   .book {
@@ -600,17 +599,17 @@ body {
 
       &-front {
         width: 100vw;
-        height: 90vh;
+        height: 88vh;
       }
 
       &-back {
         width: 100vw;
-        height: 100vh;
+        height: 88vh;
       }
 
       .page__content {
         width: 100vw;
-        height: 90vh;
+        height: 88vh;
     }
   }
 }
