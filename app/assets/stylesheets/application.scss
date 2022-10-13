@@ -315,12 +315,12 @@ body {
       }
 
       &-title {
-        font-family: var(--title);
-        font-size: calc(var(--base-size) * 1);
+        font-family: 'Tulpen One', sans-serif;;
+        font-size: 4vh;
         text-transform: uppercase;
         letter-spacing: 1px;
-        margin-top: calc(var(--baseline) * 5);
-        margin-bottom: calc(var(--baseline) * 3);
+        padding: 4vh 2vh 2vh 2vh;
+
       }
 
       &-table {
@@ -329,8 +329,8 @@ body {
 
         td {
           font-family: var(--title);
-          font-size: calc(var(--base-size) * 1);
-          padding-bottom: calc(var(--baseline) * 1.5);
+          font-size: 1.8vh;
+          padding-bottom: 1.4vh;
           text-transform: uppercase;
         }
       }
@@ -341,24 +341,33 @@ body {
 
       &-blockquote-text {
         font-family: var(--title);
-        font-size: calc(var(--base-size) * 0.96);
-        font-style: italic;
+        font-size: 2vh;
+        font-style: normal;
         text-align: justify;
+        padding: 2vh;
+        p {
+          hyphens: auto;
+        }
       }
 
       &-blockquote-reference {
         font-family: var(--title);
-        font-size: calc(var(--base-size) * 0.7);
-        margin-top: calc(var(--baseline) * 0.3);
-        float: right;
-        text-transform: uppercase;
+        font-size: 2.2vh;
+        padding: 1vh 4vh 0vh 4vh;
+        font-style: italic;
+        font-weight: bold;
+        text-align: justify;
       }
 
       &-text {
         font-family: var(--title);
-        font-size: calc(var(--base-size) * 0.96);
+        font-size: 2.2vh;
         text-align: justify;
-        text-indent: var(--baseline);
+        padding: 0vh 4vh 0vh 4vh;
+        margin-top: 2vh;
+        p {
+        hyphens: auto;
+        }
       }
     }
     .page__number {
@@ -479,106 +488,6 @@ body {
         height: auto;
         min-height: 90vh;
         margin-bottom: 40px;
-
-        &-book-title {
-          font-family: var(--book-title);
-          font-size: 6vh;
-          font-weight: bold;
-          text-transform: uppercase;
-          letter-spacing: 3px;
-          color: var(--dark-text);
-          margin-top: 4vh;
-          margin-bottom: 4vh;
-        }
-
-        &-author {
-          font-family: var(--title);
-          font-size: 2vh;
-          font-weight: 100;
-          text-transform: uppercase;
-          color: var(--dark-text);
-          border-top: 1px solid var(--dark-text);
-          border-bottom: 1px solid var(--dark-text);
-          display: inline-block;
-          padding: calc(var(--baseline) / 2) calc(var(--baseline) / 5);
-          margin-bottom: 4vh;
-        }
-
-        &-credits {
-          font-family: var(--title);
-          text-transform: uppercase;
-          font-size: 2vh;
-          margin-bottom: 2vh;
-          letter-spacing: 1px;
-
-          span {
-            display: block;
-            font-size: 3vh;
-            letter-spacing: 0;
-          }
-
-          img {
-            width: 50%;
-            height: auto;
-            margin-top: 4vh;
-          }
-        }
-
-        &-copyright {
-          position: absolute;
-          width: calc(100% - (var(--baseline) * 2));
-          bottom: calc(var(--baseline) * 2);
-          font-family: var(--title);
-          font-size: 2vh;
-          text-transform: uppercase;
-        }
-
-        &-title {
-          font-family: var(--title);
-          font-size: calc(var(--base-size) * 1);
-          text-transform: uppercase;
-          letter-spacing: 1px;
-          margin-top: calc(var(--baseline) * 5);
-          margin-bottom: calc(var(--baseline) * 3);
-        }
-
-        &-table {
-          width: 100%;
-          margin-top: calc(var(--baseline) * 2);
-
-          td {
-            font-family: var(--title);
-            font-size: calc(var(--base-size) * 1);
-            padding-bottom: calc(var(--baseline) * 1.5);
-            text-transform: uppercase;
-          }
-        }
-
-        &-blockquote {
-          margin-bottom: calc(var(--baseline) * 2);
-        }
-
-        &-blockquote-text {
-          font-family: var(--title);
-          font-size: calc(var(--base-size) * 0.96);
-          font-style: italic;
-          text-align: justify;
-        }
-
-        &-blockquote-reference {
-          font-family: var(--title);
-          font-size: calc(var(--base-size) * 0.7);
-          margin-top: calc(var(--baseline) * 0.3);
-          float: right;
-          text-transform: uppercase;
-        }
-
-        &-text {
-          font-family: var(--title);
-          font-size: calc(var(--base-size) * 0.96);
-          text-align: justify;
-          text-indent: var(--baseline);
-        }
       }
       .page__number {
         position: absolute;

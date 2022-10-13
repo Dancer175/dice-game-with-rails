@@ -1,2 +1,47 @@
 fr:
+
+  #frontpage
   titel: "Laissez-nous tourner les DES"
+  manifest: "Un manifeste"
+  loveandpeace: "pour l’amour et la paix"
+  praxis: "Cabinet pour"
+  beinghuman:  "être HUMAIN"
+
+  # copyright page
+  copyright: "L’œuvre, y compris ses parties, est protégée par le droit d’auteur.
+              Toute utilisation commerciale sans le consentement de l’auteur
+              est interdite. Cela vaut en particulier pour la reproduction,
+              la traduction, la diffusion et la mise à disposition du public,
+              sous forme électronique ou autre, dans le cadre de l’enrichissement
+              financier d’un tiers non impliqué dans le processus de création.
+              Le partage privé, altruiste et libre entre les humains est
+              cependant permis, souhaité et, dans l’esprit de la philosophie
+              de l’auteur, vivement recommandé à tous.
+              © 2019 Daniela Zimmermann"
+
+
+  #contents page
+
+  Contents: "Table des matières"
+  Introduction: "Introduction"
+  Dice-Story: "Laissez-nous tourner les dés"
+  Groups-devide: "Les groupes séparent, être des humains nous unit"
+  This-is-a-game: "C'est un jeu et je veux vous encourager à y jouer"
+  One-rule: "Ce jeu a une seule règle"
+  7-levels: "7 niveaux et 7 principes"
+  Level1: "Niveau 1 Racines"
+  Level2: "Niveau 2 Emotions"
+  Level3: "Niveau 3 Actions"
+  Level4: "Niveau 4 Amour"
+  Level5: "Niveau 5 Expression"
+  Level6: "Niveau 6 Intuition"
+  Level7: "Niveau 7 Connexion"
+  Onion-Soup : "Le colisée de la marmite à soupe à l’oignon"
+  why-am-I-telling-you : "Pourquoi je vous parle de ce jeu?"
+
+  # thanks
+
+  thanks: "Que ce livre soit dédié à toutes les personnes qui,
+          en croisant mon chemin, m'ont inspiré les tournants décisifs
+          et souvent spontanés de ma vie. Sans eux,
+          ce livre n'existerait pas."

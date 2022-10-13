@@ -5,35 +5,22 @@
         <h2 class="page__content-author">Daniela Zimmermann</h2>
 
         <p class="page__content-credits">
-          A Manifesto
-          <span>for Love and Peace</span>
-                  <%= image_tag 'logo.png'%>
+          <%= t('manifest') %>
+          <span><%= t('loveandpeace') %></span>
+          <%= image_tag 'logo.png'%>
         </p>
 
 
         <div class="page__content-copyright">
-          <p>Practice for</p>
-          <p>being HUMAN</p>
+          <p><%= t('praxis') %></p>
+          <p><%= t('beinghuman') %></p>
         </div>
       </div>
     </div>
     <div class="book__page-back" id="page-3">
-      <div class="page__content">
-        <p style="padding-top: 40%">
-          Umschlag Gestaltung/Illustration: Daniela Zimmermann
-          Druck und Bindung: www.onlineprinters.ch
-          Das Werk, einschliesslich seiner Teile, ist urheberrecht-
-          lich geschützt. Jede kommerzielle Verwertung ist ohne Zu-
-          stimmung der Autorin unzulässig. Dies gilt insbesondere
-          für die elektronische oder sonstige Vervielfältigung, Über-
-          setzung, Verbreitung und öffentliche Zugänglichmachung,
-          die im Zusammenhang mit der finanziellen Bereicherung
-          einer am Schaffensprozess unbeteiligten Drittperson
-          steht. Das private, uneigennützige und unentgeltliche Tei-
-          len zwischen Mitmenschen ist jedoch erlaubt, erwünscht
-          und ganz im Sinne der Philosophie der Autorin jedem
-          herzlich zu empfehlen.
-          © 2019 Daniela Zimmermann
+      <div class="page__content" id="page-3-content">
+        <p class="page__content-blockquote-text">
+          <%= t('copyright') %>
         </p>
         <div class="page__number">2</div>
       </div>

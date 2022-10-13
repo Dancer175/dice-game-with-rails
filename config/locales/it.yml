@@ -1,2 +1,46 @@
 it:
+
+  #frontpage
   titel: "Lasciate-ci girare i DADI"
+  manifest: "Un manifesto"
+  loveandpeace: "per l’amore e la pace"
+  praxis: "Studio per"
+  beinghuman: "essere umano"
+
+  # copyright page
+  copyright: "L’opera, comprese le sue parti, è protetta da copyright.
+              È vietato qualsiasi uso commerciale senza il consenso dell’autore.
+              Ciò vale in particolare per la riproduzione, la traduzione, la distribuzione
+              e la messa a disposizione del pubblico in relazione all’arricchimento
+              finanziario di terzi non coinvolti nel processo creativo. La condivisione privata,
+              altruista e libera tra gli altri esseri umani è, tuttavia,
+              permessa, desiderata e, nello spirito della filosofia dell’autore,
+              caldamente raccomandata a tutti.
+              © 2019 Daniela Zimmermann"
+
+
+  #contents page
+
+  Contents: "Indice dei contenuti"
+  Introduction: "Introduzione"
+  Dice-Story: "Lasciateci girare i dadi"
+  Groups-devide: "I gruppi separano, essere umano unisce"
+  This-is-a-game: "Questo è un gioco e voglio incoraggiarvi a giocarci"
+  One-rule: "Questo gioco ha una sola regola"
+  7-levels: "7 livelli e 7 principi"
+  Level1: "Level 1 Radici"
+  Level2: "Level 2 Emozioni"
+  Level3: "Level 3 Azioni"
+  Level4: "Level 4 Amore"
+  Level5: "Level 5 Espressione"
+  Level6: "Level 6 Intuizione"
+  Level7: "Level 7 Connessione"
+  Onion-Soup: "Il Colosseo della pentola per zuppa di cipolle"
+  why-am-I-telling-you: "Perché vi racconto di questo gioco?"
+
+  #thanks
+
+  thanks: "Questo libro è dedicato a tutte le persone che,
+          incrociando il mio cammino, mi hanno ispirato nelle svolte
+          decisive e spesso spontanee della mia vita. Senza di loro,
+          questo libro non esisterebbe."

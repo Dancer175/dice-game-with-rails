@@ -1,2 +1,232 @@
 de:
+  # frontpage
   titel: "Lasst uns die Würfel drehen"
+  manifest: "Ein Manifest"
+  loveandpeace: "für Liebe und Frieden"
+  praxis: "Praxis für's"
+  beinghuman: "Mensch sein"
+
+  # copyright page
+  copyright: "Das Werk, einschliesslich seiner Teile, ist urheberrechtlich geschützt.
+              Jede kommerzielle Verwertung ist ohne Zustimmung der Autorin unzulässig.
+              Dies gilt insbesondere für die elektronische oder sonstige Vervielfältigung,
+              Übersetzung, Verbreitung und öffentliche Zugänglichmachung,
+              die im Zusammenhang mit der finanziellen Bereicherung
+              einer am Schaffensprozess unbeteiligten Drittperson
+              steht. Das private, uneigennützige und unentgeltliche Teilen
+              zwischen Mitmenschen ist jedoch erlaubt, erwünscht
+              und ganz im Sinne der Philosophie der Autorin jedem
+              herzlich zu empfehlen.
+              © 2019 Daniela Zimmermann"
+
+  #contents page
+
+  Contents: "Inhaltsverzeichnis"
+  Introduction: "Einleitung"
+  Dice-Story: "Lasst uns die Würfel drehen"
+  Groups-devide: "Gruppen trennen, Mensch sein vereint"
+  This-is-a-game: "Dies ist ein Spiel und ich möchte euch zum Mitspielen animieren"
+  One-rule: "Dieses Spiel hat eine Regel"
+  7-levels: "Die Geschichten des echten Lebens als Spiel mit 7 Levels und 7 Prinzipien"
+  Level1: "Level 1 Wurzeln"
+  Level2: "Level 2 Emotionen"
+  Level3: "Level 3 Aktionen"
+  Level4: "Level 4 Liebe"
+  Level5: "Level 5 Ausdruck"
+  Level6: "Level 6 Intuition"
+  Level7: "Level 7 Verbindung"
+  Onion-Soup: "Das Zwiebelsuppentopf-Kolosseum"
+  why-am-I-telling-you: "Wieso erzähle ich euch von diesem Spiel?"
+
+  # thanks
+
+  thanks: "Dieses Buch sei all den Menschen gewidmet,
+          die mich durch das Kreuzen meines Weges
+          zu den entscheidenden und oftmals spontanen
+          Wendungen meines Lebens inspiriert haben.
+          Ohne sie gäbe es dieses Buch nicht."
+
+  # Introduction
+
+  Introduction-text-1:  "Ich möchte euch eine Geschichte erzählen.
+                        Ich habe die Geschichte erlebt. Ich glaube jedoch,
+                        dass Geschichten uns nicht gehören, sondern dass wir sie erleben,
+                        um sie zu teilen. Diese Geschichte soll allen gehören, die sie hören möchten.
+                        Sie soll ein Geschenk sein, das weiterverschenkt werden darf.
+                        Es ist die Geschichte der drei Würfel."
+
+  Introduction-text-2:  "Ich denke, dass es wichtig ist, unsere Geschichten, Erfahrungen und Weisheiten
+                        miteinander zu teilen, denn niemand von uns wird in seinem eigenen, kleinen Leben jemals alles sehen
+                        und alles verstehen können. Je mehr Menschen mit uns ihre Geschichten teilen,
+                        desto grösser und vielfältiger wird unsere Vorstellung der Welt, die uns umgibt.
+                        Wie ein grosses Weltwissenspuzzle, von dem jeder Mensch ein Stück erhält.
+                        Wenn wir lernen, unsere Puzzle-Stücke zusammenzulegen, ergeben unsere Teile
+                        zusammen ein wunderschönes Bild. Behalten wir sie jedoch für uns, im Wettstreit
+                        gegeneinander, bleibt jeder für sich und hütet seine scheinbaren Errungenschaften,
+                        die nie vollständig sein werden.
+                        So habt ihr als meine Mitmenschen eure Puzzle-Stücke mit mir geteilt,
+                        und nun ist der Moment gekommen, euch etwas zurückgeben, um mich bei euch zu bedanken.
+                        Willkommen in meiner Welt..."
+
+
+  # Dice Story
+
+  Dice-Story-1: "Oktober 2013, Montagmorgen auf einer Schweizer Autobahn. Ich hatte ganz schrecklichen
+                Liebeskummer und war unendlich traurig. Eigentlich war ich auf dem Weg in die Schule. Doch ich wollte
+                lieber allein sein, um über mein Leben nachdenken zu können und in Ruhe zu heulen.
+                Also fuhr ich einfach immer weiter und weiter geradeaus und landete schliesslich am alten Hafen von Marseille.
+                Ich setzte mich am Hafenrand auf den Boden, betrachtete die vielen Boote und schaute den Menschen zu.
+                Da setzte sich ein junger Franzose neben mich. Er fing an, mir die Geschichten seines Lebens zu erzählen
+                und ich erzählte ihm, dass ich traurig sei und hier sitze, um nachzudenken. Da griff er in seine Tasche
+                und holte 3 Würfel heraus. Er gab sie mir und sagte:"
+
+  Dice-Story-2: "«Weisst du, das Leben ist wie ein Würfelspiel. Manchmal würfelst du hoch, manchmal würfelst du tief.
+                Behalte sie und hab sie immer bei dir, sie werden dir Glück bringen.»"
+
+  Dice-Story-3: "Mit den drei Würfeln in der Tasche und einer herzerwärmenden Geschichte im Gepäck fuhr ich wieder nach Hause."
+
+  Dice-Story-4: "Es war unglaublich. Ich hatte tief gewürfelt und ein dahergelaufener Fremder vermochte mich aufzumuntern,
+                mit einer simplen Geste, einer kleinen Aufmerksamkeit unter Mitmenschen.
+                Von da an nahm ich mir vor, in meinem Leben Geschichten zu erleben."
+
+  Dice-Story-5: "Ich brach so oft wie möglich aus dem Alltag aus, um das Unvorhersehbare meine Geschichten schreiben zu lassen.
+                Nach meiner Ausbildung pilgerte ich zu Fuss ein paar Monate ganz allein durch Italien. Es schien, als würde das
+                Leben die Geschichten an jeder Ecke bereithalten und man musste sie nur pflücken, wie Erdbeeren."
+
+  Dice-Story-6: "Lagen meine Würfel hoch, hatte ich Zeit den Geschichten wildfremder Menschen zuzuhören.
+                Mir fiel auf, dass eine kleine Aufmerksamkeit, ein Lächeln, ein kurzes Gespräch oder ein Kompliment,
+                aus dem Nichts den Tag eines Menschen retten konnte. Also machte ich mich auf zur Rettungsmission."
+
+  Dice-Story-7: "Lagen meine Würfel tief, machten sich Wildfremde aus dem Nichts an meine Rettungsmission.
+                Ich wurde zum Essen eingeladen, mir wurde zugehört, kleine Geschenke gemacht, Schlafplätze und
+                Mitfahrgelegenheiten angeboten. Ich hatte jeden Tag einen menschlichen Engel, der meinen Tag zu retten vermochte."
+
+  Dice-Story-8: "Ich bin auf der Welt herumspaziert und habe einfach alle so behandelt, als wären die fremden Menschen um mich
+                herum meine Familie. Die Liebe, die ich tagtäglich erfuhr, war unglaublich bereichernd.
+                Nach meiner Rückkehr in die Schweiz wusste ich nicht, wie es nun weitergehen sollte. Ich fragte im Ausgang
+                einen Bartender, wo ich denn hinziehen solle, und er antwortete:"
+
+  Dice-Story-9: "«Geh in die Stadt der vielen Farben, dort habe ich die schönste Zeit meines Lebens verbracht.»"
+
+  Dice-Story-10: "Also zog ich in die Stadt der vielen Farben, um mich dort beruflich und persönlich an der Realität zu erproben.
+                  Ich wollte jedoch den Menschen nicht nur auf professioneller, sondern auch auf menschlicher Ebene etwas zurückgeben.
+                  Also habe ich meine Wünsche in eine Philosophie verpackt:"
+
+  Dice-Story-11: "«Wir alle sind Menschen. Egal, woher wir kommen, wie wir aussehen oder an was wir glauben, was wir in unserem Leben
+                  tun und darstellen."
+  Dice-Story-12:  "Für mich bedeutet Mensch sein mit dem Wind zu tanzen und für den Mond zu singen, in einem Meer von Emotionen
+                  zu schwimmen, Momente der Vollkommenheit und Klarheit zu erleben, sich zu verlieren, um sich neu zu entdecken."
+  Dice-Story-13:  "Mensch sein, bedeutet zu weinen, zu lachen, zu lieben, selbständig zu denken, zu hinterfragen und seine
+                  persönliche Wahrheit auszusprechen."
+
+  Dice-Story-14:  "Mensch sein, bedeutet sich zu erlauben sich selbst zu sein. Was bedeutet Mensch sein für dich?"
+
+  Dice-Story-15:  "Es braucht Mut, Mensch zu sein. Denn Mensch sein bedeutet farbig zu sein in einem Meer von grau,
+                  anders zu sein als alle anderen, einzigartig, ein Original statt einer Kopie."
+
+  Dice-Story-16: "Heilung bedeutet für mich, diese Originalität in uns selbst und in unseren Mitmenschen zu entdecken.
+                 Das Menschlich sein mit all seinen Facetten anzunehmen und zu leben und unsere Gedanken, Gefühle und
+                 Geschichten miteinander zu teilen, um gemeinsam zu wachsen."
+
+  Dice-Story-17: "Ich wünsche mir, dass immer mehr Menschen den Mut haben, Farbe zu bekennen, um in Liebe und Respekt
+                 für das Menschsein einzustehen, zu unserem eigenen Wohl und zum Wohl unserer Familie, der Menschheit.»"
+
+  Dice-Story-18: "Im Rahmen dieser Philosophie fasste ich einen Entschluss. Ich würde meine Geschichten mit den Menschen
+                  teilen. Die Geschichte der Würfel sollte die Erste sein."
+
+  Dice-Story-19: "Am nächsten Tag schlenderte ich durch die Altstadt und stiess auf diesen Ort:"
+
+  Dice-Story-20: "Da lagen sie, riesengross vor mir, die drei Würfel, versteckt in einem Kirchhof, mitten in der Altstadt.
+                  Es war wie ein Zeichen, in Stein gemeisselt, vor meinen Füssen. Ihr mögt jetzt schmunzeln, doch ich finde Zeichen großartig,
+                  solange sie dich dazu motivieren, etwas Schönes zu tun, das du sonst nicht tun würdest."
+
+  Dice-Story-21: "Ich habe mir also lange Gedanken gemacht, was ich denn wirklich gelernt habe aus der Geschichte der Würfel.
+                  Denn es ist zwar süss, Würfel geschenkt zu bekommen, oder diese auf einem Kirchhof aufzustellen, doch eigentlich
+                  repräsentieren sie doch den puren Zufall. Die Würfel sind gefallen, der Lauf der Dinge ist unabwendbar."
+
+  Dice-Story-22: "Dann fiel es mir wie Schuppen von den Augen. Würfel kann man drehen! Sie liegen nicht einfach da, weil jemand sie
+                  so fallen liess und niemand die Macht besitzt dies zu ändern. Wir alle begegnen täglich so vielen «Würfeln», und es
+                  wäre ein Leichtes, ein paar Wenigen einen Stups zu geben. Doch wir tun es nicht, weil wir den Fokus auf anderes,
+                  scheinbar wichtigeres gerichtet haben und so das Offensichtliche nicht sehen."
+
+  Dice-Story-23: "Ich begann also, die Geschichte aufzuschreiben und suchte deshalb in meiner Erinnerungsschachtel vergeblich
+                  nach den Würfeln. Was ich jedoch fand, war ein kleines schwarzes Klappmesser mit der Gravur Douk-Douk."
+
+  Dice-Story-24: "Ich erhielt es von dem jungen Franzosen, der mir vor vier Jahren die Würfel geschenkt hatte. Er sagte mir, es sei
+                  gefährlich für eine junge Dame, ganz allein auf den Strassen herumzustreunen und ich solle das Messer in der Hosentasche mit mir
+                  herumtragen, dann könne ich mich beschützen.
+                  Als ich nach Hause gekommen war, fing ich an, die Würfel immer bei mir zu haben, um mich an die Geschichte aus Marseille zu erinnern.
+                  Das Messer landete jedoch in meiner Erinnerungsschachtel und geriet in Vergessenheit."
+
+  Dice-Story-25: "Der junge Franzose hatte mir also zwei Geschenke gemacht. Ich erhielt von ihm die Würfel und das Messer. Ich hatte mich wohl für die
+                  Würfel entschieden, da er sagte, sie würden mir Glück bringen und ich dachte, Glück sei besser, als jemandem ins Bein zu stechen."
+
+  Dice-Story-26: "Ich trug auf all meinen Reisen bewusst keine Waffen mit mir und vertraute meistens auf die Philosophie der Würfel und ich durfte
+                  unglaubliche Momente der Liebe und Menschlichkeit erleben. Was wäre passiert, hätte ich vor vier Jahren das Messer in meine
+                  Hosentasche gesteckt und die Würfel in meine Erinnerungsschachtel gelegt und dort vergessen?"
+
+  Dice-Story-27: "Die Leute erzählen dir immer Geschichten, die in deinem Herz Liebe wachsen lassen und Geschichten, die dich ängstlich
+                  werden lassen. Es ist nichts verkehrt daran, Angst zu haben oder vorsichtig zu sein, das ist sogar gut.
+                  Doch ich glaube, dass nur die Liebe erschaffen kann und dass, wenn wir uns Frieden wünschen es manchmal besser ist,
+                  auf Würfel zu vertrauen als auf Messer."
+
+  Dice-Story-28: "Ich möchte einen Vorschlag machen. Mir ist bewusst, dass ich ein einzelner kleiner Mensch auf dieser grossen Erde bin.
+                  Ich habe viele Geschichten erlebt und ich erlebe jeden Tag neue, doch ich vermag grosse, schwere Würfel nicht allein zu drehen.
+                  Ich möchte euch hiermit auffordern, mit mir zusammen eure Geschichten zu teilen. Geschichten von Menschen,
+                  die aus dem Nichts eure Würfel zu drehen vermochten, Geschichten, die in euren Herzen Liebe wachsen liessen,
+                  Geschichten von alltäglicher Menschlichkeit. Mein Traum ist es, Liebesbomben in Form von geteilten Geschichten über die
+                  Welt «regnen» zu lassen. Denn nur die Liebe besitzt die Kraft zum Frieden."
+
+
+  # Groups devide, being human unites
+
+  Groups-devide-1:  Auf meinen Reisen habe ich mich an vielen Orten hingesetzt und mit den Leuten gesprochen. Ich habe mir ihre Welt
+                    angeschaut und mit ihnen mitgelebt. Es hat mich interessiert, wie sie leben, wie sie denken und an was sie glauben.
+                    Dabei ist mir aufgefallen, dass man viele Menschen grob einer oder mehrerer gesellschaftlicher Gruppen zuteilen kann. Dies auf Grund
+                    ihrer geografischen Herkunft, ihrem Kontakt zu einheimischer und fremder Kultur, ihrem sozialen und finanziellen Status, ihrem Umfeld,
+                    persönlichen Schicksalen, Meinungen, Überzeugungen, Glaubenssystemen, persönlichen Präferenzen und Interessen.
+                    Einige haben sich im Verlaufe ihres Lebens bewusst einer Gruppe angeschlossen, andere wurden in sie hineingeboren oder die
+                    Lebensumstände haben sie Teil einer Gruppe werden lassen.
+
+  Groups-devide-2: "Im Grunde genommen wäre dieses Phänomen des sich Gruppierens lustig bis bereichernd, betrachtet man das Ganze aus einer
+                    gewissen Distanz. Des Öfteren erschweren die Glaubenssätze dieser Gruppen und Parallelwelten jedoch das «in den Kontakt treten»
+                    mit anderen Gruppen oder verbieten es sogar."
+
+  Groups-devide-3:  "Diese Dynamik des bewussten oder unbewussten Trennens verhindert den Austausch von Wissen, was ich als schade bis gefährlich
+                     für das Wohl von uns Allen erachte. Jede dieser Gruppen findet jedoch einen Platz in einer noch viel größeren Gruppe, nämlich
+                     der Gruppe der Menschheit. Zur Gruppe der Menschheit zu gehören bedeutet, Grenzen zu überwinden, Horizonte zu erweitern,
+                     die Welt in einem pluralistischen Sinne zu erfahren."
+
+  Groups-devide-4:  "Ich glaube, dass man gleichzeitig zur Gruppe der Menschheit und zu anderen Gruppen gehören kann. Da zur Gruppe der Menschheit
+                    zu gehören jedoch bedingt, uns alle als Individuen wahrzunehmen und uns gegenseitig Respekt, Verständnis und Liebe entgegenzubringen,
+                    können die positiven Aspekte einer jeden anderen Gruppe weniger überschattet gelebt werden. Dazu ermöglicht diese Anschauung,
+                    die Angst vor dem Kontakt zu anderen Gruppen zu verlieren."
+
+  Groups-devide-5: "Ich finde es wichtig, sich zu konfrontieren, Glaubenssätze an der Realität zu überprüfen und sich manchmal dadurch eines
+                    Besseren belehren zu lassen. Diese Welt, in der wir alle leben, ist unglaublich groß. Wir können schlichtweg nicht alles wissen.
+                    Was wir nicht wissen, ersetzen wir jedoch häufig mit der generellen Meinung unserer eigenen Gruppen bezüglich anderer uns unbekannter
+                    Gruppen."
+
+  Groups-devide-6:  "Deshalb sollte man zuerst seine eigenen Gruppen als solche erkennen und deren Glaubenssätze verstehen lernen,
+                    um dann als Mensch und nicht als Gruppenzugehöriger sich eine unabhängige Meinung über die Menschen der jeweils
+                    anderen Gruppen zu bilden.
+                    Denn jede Gruppe zeichnet ein anderes Bild, als Teilaspekt einer größeren Realität. Würde man diese Bilder
+                    zusammenfügen, würden wir uns der Wahrheit annähern, nach der wir alle insgeheim suchen."
+
+
+  # This is a game
+
+  This-is-a-game-text: "Ich fordere euch zur spielerischen Konfrontation mit den euch umgebenden, anders denkenden und anders glaubenden,
+                        sich anders kleidenden und anders aussehenden Mitmenschen auf. In der Hoffnung, dieses Buch möge seinen Teil dazu beitragen,
+                        die Menschen der Menschheitsfamilie in gegenseitigem Respekt und in der Akzeptanz des Verschiedenseins,
+                        des Buntseins einander ein Stücklein näher zu bringen."
+
+  One-rule-text:  "Alles was ihr im Sinne dieses Spieles plant, erschafft, sagt und tut, soll zum Wohl von uns allen, zum Wohl der Familie
+                  der Menschheit geschehen. Verwendet ihr dieses Spiel gegen eure Mitmenschen, verwendet ihr es, ob ihr das nun wollt oder
+                  nicht, unweigerlich auch gegen euch selbst und dieses Spiel verliert seinen ganzen Wert. Haltet ihr diese eine Regel jedoch
+                  in Ehren, schafft ihr einen Nährboden, auf dem wunderschöne, bereichernde und herzerwärmende Geschichten wachsen können."
+
+  7-levels-text: "Lasst uns ein Gedankenexperiment wagen. Wir stellen uns dazu vor, das Leben sei ein Spiel und wir seien die
+                  Spielfiguren, die sich auf den Spielfeldern dieser Erde befinden, um zu beobachten, zu empfinden, zu handeln, zu lieben,
+                  zu kommunizieren, sich vom Fluss des Lebens leiten zu lassen und mit der Welt die uns umgibt in Verbindung zu treten.
+                  Hierfür möchte ich euch gerne die 7 Levels dieses Spieles und die dazugehörigen Spielprinzipien zeigen:"
