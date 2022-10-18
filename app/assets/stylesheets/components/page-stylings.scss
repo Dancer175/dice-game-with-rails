@@ -20,6 +20,20 @@
   }
 }
 
+#page-19-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  p {
+    font-size: 2.8vh;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    padding: 0vh 4vh 0vh 4vh;
+  }
+}
+
 #top-text-without-title {
   padding-top: 2vh;
 }
@@ -29,11 +43,39 @@
 }
 
 .content-image {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  height: 84vh;
+  width: 100%;
   img {
     width: 100%;
-  height: 100%;
+    height: 100%;
   }
+}
+
+#page-11,
+#page-19,
+#page-21,
+#page-23,
+#page-25,
+#page-27,
+#page-29,
+#page-31,
+#page-33, {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.impressum {
+  text-align: right;
+  font-family: 'Tulpen One', sans-serif;
+  display: flex;
+  flex-direction: column;
+  padding: 8vh 4vh 4vh 4vh;
+}
+
+#last-page-last-line {
+  padding-bottom: 4vh;
 }

@@ -191,13 +191,16 @@ body {
     }
 
     &--4 {
-      padding: 0 calc(var(--baseline) * 3);
-      overflow-y: auto;
       @-moz-document url-prefix() {
         cursor-event: none;
         cursor: default;
         position: relative;
         display: none;
+              img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+      }
       }
     }
 
@@ -320,7 +323,37 @@ body {
         text-transform: uppercase;
         letter-spacing: 1px;
         padding: 4vh 2vh 2vh 2vh;
+      }
 
+      &-level-title {
+        font-family: 'Tulpen One', sans-serif;;
+        font-size: 6vh;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        padding: 4vh 2vh 2vh 2vh;
+      }
+
+      &-impressum-title {
+        font-family: var(--title);
+        font-size: 2.2vh;
+        padding-bottom: 1vh;
+        font-weight: bold;
+      }
+
+      &-impressum-text {
+        display: flex;
+        flex-direction: column;
+        font-family: var(--title);
+        font-size: 2vh;
+      }
+
+      &-subtitle {
+
+        font-family: 'Tulpen One', sans-serif;;
+        font-size: 3.5vh;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        padding: 0vh 2vh 4vh 0vh;
       }
 
       &-table {
@@ -361,6 +394,17 @@ body {
       &-text {
         font-family: var(--title);
         font-size: 2.2vh;
+        text-align: justify;
+        padding: 0vh 4vh 0vh 4vh;
+        margin-top: 2vh;
+        p {
+        hyphens: auto;
+        }
+      }
+
+      &-level-text {
+        font-family: var(--title);
+        font-size: 2.4vh;
         text-align: justify;
         padding: 0vh 4vh 0vh 4vh;
         margin-top: 2vh;
