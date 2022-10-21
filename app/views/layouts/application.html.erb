@@ -2,13 +2,24 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Dice Game</title>
+    <title><%= t('titel') %></title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
+
+    <!-- google index -->
+    <!-- <meta name="robots" content="noindex"> -->
+    <meta name="robots" content="index, follow">
+
+    <link rel="alternate" hreflang="de" href="/">
+    <link rel="alternate" hreflang="fr" href="/fr">
+    <link rel="alternate" hreflang="it" href="/it">
+    <link rel="alternate" hreflang="en" href="/en">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+
+    <%= favicon_link_tag asset_path('logo.ico') %>
     <%= stylesheet_pack_tag 'application' %>
   </head>
 

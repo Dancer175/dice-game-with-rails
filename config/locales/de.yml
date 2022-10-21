@@ -2,6 +2,7 @@ de:
   # frontpage
   titel: "Lasst uns die Würfel drehen"
   manifest: "Ein Manifest"
+  manifest-long: "Ein Manifest für Liebe und Frieden"
   loveandpeace: "für Liebe und Frieden"
   praxis: "Praxis für's"
   beinghuman: "Mensch sein"
@@ -308,11 +309,11 @@ de:
                 dieses Spiel gewinnen wollen, dies nur miteinander tun können."
 
 
-  Level8Text1: Stellt euch vor, die Erde sei ein riesengrosses Zwiebelsuppentopf-Kolosseum, in dem sich die Weltbühne befindet,
+  Level8Text1: "Stellt euch vor, die Erde sei ein riesengrosses Zwiebelsuppentopf-Kolosseum, in dem sich die Weltbühne befindet,
               auf der die Zwiebeln aller Menschheitsgruppen ihre Geschichten leben, als seien sie Theaterstücke. Das Kolosseum, von dem ich spreche,
               verfügt über unzählige Bühnen, welche die Spielfelder unserer Welt repräsentieren. Es beherbergt einen Schallplattenladen mit
               jeder hörbaren Musikrichtung und einen Kostümverleih, dessen Sammlung über jedes Kostüm verfügt, das je getragen wurde."
-  Level8Text2: Stellt euch vor, dass wir alle als Zwiebeln zusammen in diesem Kolosseum seien und jeder von uns auf der Nase eine Zauberbrille
+  Level8Text2: "Stellt euch vor, dass wir alle als Zwiebeln zusammen in diesem Kolosseum seien und jeder von uns auf der Nase eine Zauberbrille
               trage, und in der Tasche eine Lottokarte. Stellt euch nun vor, unser Autopilot sei eingeschaltet und wir seien alle bereit,
               uns in unsere Missionen zu stürzen, um zusammen das grösste Schauspiel aufzuführen, das die Weltbühne je gesehen hat.
               Möge das Spiel beginnen!"
@@ -349,7 +350,7 @@ de:
         um so viele Geschichten wie möglich, zu erleben. Ich wünsche euch, dass einige dieser Geschichten in Missionen des
         Würfeldrehens verwandelt werden."
 
-  why7: Ich wünsche euch, dass diese Geschichten euch bereichern werden und euch Mut machen werden auf eurem Weg.
+  why7: "Ich wünsche euch, dass diese Geschichten euch bereichern werden und euch Mut machen werden auf eurem Weg.
         Und ich wünsche mir persönlich, dass ihr diese Geschichten mit euren Mitmenschen teilen werdet, um dem Mensch sein
         seinen angestammten Platz auf der Welt zurückzugeben und die Menschen in Liebe und Frieden zu einen."
 
@@ -363,7 +364,7 @@ de:
   # Impressum
 
   project: "Ein Projekt von:"
-  praxis: "Praxis fürs Mensch sein"
+  praxis: "Praxis fürs MENSCH sein"
   name: "Daniela Zimmermann"
   adresse: "Obergässli 11"
   ort: "2502 Biel"

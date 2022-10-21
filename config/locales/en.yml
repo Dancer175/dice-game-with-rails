@@ -3,6 +3,7 @@ en:
   # frontpage
   titel: "Let's turn the DICE"
   manifest: "A Manifesto"
+  manifest-long: "A Manifesto for Love and Peace"
   loveandpeace: "for Love and Peace"
   praxis: "Practice for"
   beinghuman: "being human"
@@ -26,7 +27,7 @@ en:
   Groups-devide: "Groups devide, being human unites"
   This-is-a-game: "This is a Game and i want you to play along"
   One-rule: "This Game just has one rule"
-  7-levels: "7 Levels and 7 Principles"
+  7-levels: "THE STORIES OF REAL LIFE AS A GAME WITH 7 LEVELS AND 7 PRINCIPLES"
   Level1: "Level 1 Roots"
   Level2: "Level 2 Emotions"
   Level3: "Level 3 Actions"
@@ -47,17 +48,196 @@ en:
 
   # Introduction
 
-  Introduction-text: "I want to tell you a story. I have experienced the story.
-                    However, I believe that stories do not belong to us, but that we experience
-                    them in order to share them. This story should belong to everyone who wants to hear it.
-                    It should be a gift that can be given to others. It is the story of the three dice.
-                    I think that it is important to share our stories, experiences and wisdoms because none
-                    of us will ever be able to see and understand everything in our own little lives.
-                    The more people share their stories with us, the bigger and more diverse our vision
-                    of the world that surrounds us becomes.
-                    Like a great world knowledge puzzle, of which every person receives a piece.
-                    When we learn to put our pieces together, our fragments together make a beautiful picture.
-                    But if we keep them for ourselves, in competition with each other, each one remains for himself
-                    and guards his apparent achievements, which will never be complete.
-                    So as my fellow human beings you shared your puzzle pieces with me,
-                    now is the time to give you something back to thank you. Welcome to my world..."
+  Introduction-text-1:  "I want to tell you a story. I have experienced the story. However, I believe that stories do not belong to us, but that we experience them in order to share them. This story should belong to everyone who wants to hear it. It should be a gift that can be given to others. It is the story of the three dice."
+
+  Introduction-text-2:  "I think that it is important to share our stories, experiences and wisdoms because none of us will ever be able to see and understand everything in our own little lives. The more people share their stories with us, the bigger and more diverse our vision of the world that surrounds us becomes.
+
+Like a great world knowledge puzzle, of which every person receives a piece. When we learn to put our pieces together, our fragments together make a beautiful picture. But if we keep them for ourselves, in competition with each other, each one remains for himself and guards his apparent achievements, which will never be complete.
+
+So as my fellow human beings you shared your puzzle pieces with me, now is the time to give you something back to thank you. Welcome to my world..."
+
+
+  # Dice Story
+
+  Dice-Story-1: "October 2013, Monday morning on a Swiss motorway. I had terrible heartache and was infinitely sad. Actually I was on my way to school. But I wanted to be alone so I could think about my life and cry in peace.
+
+So I just kept going straight ahead and ended up at the old port of Marseille.
+
+I sat down on the ground at the edge of the harbour, looked at the many boats and watched the people. A young Frenchman sat next to me. He started telling me the stories of his life and I told him that I was sad and sitting here to think. Then he reached into his pocket and took out 3 dice. He gave them to me and said:"
+
+  Dice-Story-2: "“You know, life is like a game of dice. Sometimes you roll high, sometimes you roll low. Keep them and always have them with you, they will bring you luck.”"
+
+  Dice-Story-3: "With the three dice in my pocket and a heartwarming story in my luggage, I drove home again."
+
+  Dice-Story-4: "It was incredible. I had thrown dice low and a stranger who had run along was able to cheer me up with a simple gesture, a little attention among fellow humans.
+
+From then on I decided to experience stories in my life. I broke out of everyday life as often as possible in order to let the unpredictable write my stories."
+
+  Dice-Story-5: " I broke out of everyday life as often as possible in order to let the unpredictable write my stories. After my studies, I walked a few months alone through Italy on foot. Life seemed to have the stories ready on every corner and all you had to do was pick them like strawberries."
+
+  Dice-Story-6: "If my dice were high, I had time to listen to the stories of strangers. I noticed that a little attention, a smile, a short conversation or a compliment could save a person’s day from nothing. So I went on a rescue mission."
+
+  Dice-Story-7: "If my dice were low, strangers from out of nowhere started my rescue mission. I was invited to dinner, I was listened to, small gifts were given, sleeping places and car rides were offered. Every day I had a human angel who was able to save my day."
+
+  Dice-Story-8: "I walked the world and just treated everyone as if the strangers around me were my family. The love I experienced every day was incredibly enriching.
+
+When I returned to Switzerland, I didn’t know what to do next. I asked a bartender in a bar where I should go and he answered:"
+
+  Dice-Story-9: "“Go to the city of many colours, that’s where I spent the most beautiful time of my life.”"
+
+  Dice-Story-10: "So I moved to the city of many colours to test myself there professionally and personally against reality. However, I wanted to give something back to people not only on a professional level, but also on a human level. So I packed my wishes into a philosophy:"
+
+  Dice-Story-11: "“We are all human beings. No matter where we come from, how we look or what we believe in, what we do and represent in our lives."
+
+  Dice-Story-12:  "For me being human means dancing with the wind and singing for the moon, swimming in a sea of emotions, experiencing moments of perfection and clarity, losing oneself to rediscover oneself."
+
+  Dice-Story-13:  "To be human means to cry, to laugh, to love, to think independently, to question and to express one’s personal truth."
+
+  Dice-Story-14:  "To be human means to allow oneself to be oneself. What does being human mean to you?"
+
+  Dice-Story-15:  "It takes courage to be human. Because to be human means to be colorful in a sea of gray, to be different from all others, unique, an original instead of a copy."
+
+  Dice-Story-16: "For me, healing means discovering this originality in ourselves and in our fellow human beings. To accept and live being human with all its facets and to share our thoughts, feelings and stories in order to grow together."
+
+  Dice-Story-17: "I hope that more and more people will have the courage to show their colours, to stand up in love and respect for humanity, for our own good and for the good of our family, humanity.”"
+
+  Dice-Story-18: "Within the framework of this philosophy, I made a decision. I would share my stories with people. The story of the dice should be the first."
+
+  Dice-Story-19: "The next day I strolled through the old town and came across this place:"
+
+  Dice-Story-20: "There they lay, huge in front of me, the three dice, hidden in a churchyard, in the middle of the old town. It was like a sign, huge, in front of my feet. You may smile now, but I think signs are great as long as they motivate you to do something beautiful that you wouldn’t do otherwise."
+
+  Dice-Story-21: "So I thought for a long time about what I really learned from the story of the dice. Because it is sweet to get dice as a present, or to put them on a churchyard, but actually they represent pure chance. The dice have been thrown, the course of events is inevitable."
+
+  Dice-Story-22: "Then it fell like scales from my eyes. Dice can be turned! They do not simply lie there because someone let them fall and nobody possesses the power to change this. We all encounter so many “dice” every day, and it would be easy to give a few a nudge. But we don’t do it because we focus on other, seemingly more important things and don’t see the obvious."
+
+  Dice-Story-23: "So I started to write the story down and so I searched in vain for the dice in my memory box. But what I found was a small black folding knife with the engraving Douk-Douk."
+
+  Dice-Story-24: "I received it from the young Frenchman who had given me the dice four years ago. He told me that it was dangerous for a young lady to roam the streets all by herself and that I should carry the knife with me in my trouser pocket so that I could protect myself.
+
+When I came home, I began to carry the dice with me at all times to remember the story of Marseille. But the knife ended up in my memory box and fell into oblivion."
+
+  Dice-Story-25: "So the young Frenchman had given me two presents. He gave me the dice and the knife. I had probably chosen the dice because he said they would bring me luck and I thought luck was better than stabbing someone in the leg."
+
+  Dice-Story-26: "On all my journeys I consciously did not carry any weapons with me and mostly trusted in the philosophy of the dice and I was allowed to experience incredible moments of love and humanity. What would have happened if I had put the knife in my pocket four years ago and put the dice in my memory box and forgotten them there?"
+
+  Dice-Story-27: "People always tell you stories that make love grow in your heart and stories that make you anxious.
+
+There’s nothing wrong with being afraid or careful, that’s even good. But I believe that only love can create and that if we want peace it is sometimes better to trust dice than knives."
+
+  Dice-Story-28: "I would like to make a suggestion. I am aware that I am a single small person on this great earth. I have experienced many stories and I experience new ones every day, but I cannot turn big, heavy dice alone. I would like to invite you to share your stories with me. Stories of people who were able to turn your dice out of nowhere, stories that let love grow in your hearts, stories of everyday humanity. My dream is to make love bombs “rain” over the world in the form of shared stories. Because only love possesses the power for peace."
+
+
+  # Groups devide, being human unites
+
+  Groups-devide-1:  "On my travels I sat down in many places and talked to people. I looked at their world and lived with them. I was interested in how they live, how they think and what they believe in.
+
+I noticed that many people can be roughly assigned to one or more social groups. This is due to their geographical origin, their contact to local and foreign culture, their social and financial status, their environment, personal destinies, opinions, convictions, belief systems, personal preferences and interests.
+
+Some have consciously joined a group in the course of their lives, others have been born into it or the circumstances have made them part of a group."
+
+  Groups-devide-2: "Basically, this phenomenon of grouping would be funny to enriching when viewed from a distance. Often, however, the beliefs of these groups and parallel worlds make it difficult to “get in touch” with other groups or even forbid it."
+
+  Groups-devide-3:  "This dynamic of conscious or unconscious separation prevents the exchange of knowledge, which I consider to be harmful to the welfare of all of us. However, each of these groups finds its place in an even larger group, the group of humanity. To belong to the group of humanity means to overcome boundaries, to broaden horizons, to experience the world in a pluralistic sense."
+
+  Groups-devide-4:  "I believe that you can belong to the group of humanity and to other groups at the same time. However, since belonging to the group of humanity means perceiving us all as individuals and showing respect, understanding and love for each other, the positive aspects of each other group can be lived less overshadowed. In addition, this view makes it possible to lose the fear of contact with other groups."
+
+  Groups-devide-5: "I find it important to confront oneself, to check beliefs in reality and sometimes to be taught better. This world in which we all live is incredibly large. We simply cannot know everything. What we do not know, however, we often replace with the general opinion of our own groups regarding other groups unknown to us."
+
+  Groups-devide-6:  "Therefore, one should first recognize one’s own groups as such and learn to understand their beliefs in order to then form an independent opinion about the people of the other groups as human beings and not as members of a group.
+
+For each group draws a different picture as part of a larger reality. If these images were put together, we would approach the truth we are all secretly looking for."
+
+
+  # This is a game
+
+  This-is-a-game-text: "I invite you to the playful confrontation with the people around you, thinking differently and believing differently, dressing differently and looking differently.
+
+In the hope that this book will do its part to bring the people of the human family a little closer to each other in mutual respect and in the acceptance of diversity and colourfulness."
+
+  One-rule-text:  "Everything that you plan, create, say and do in the sense of this game should be done for the good of all of us, for the good of the family of humanity. If you use this game against your fellow Human beings, you use it, whether you want it or not, inevitably also against yourselves, and this game loses all its value. But if you honour this one rule, you create a breeding ground on which beautiful, enriching and heartwarming stories can grow."
+
+  7-levels-text: "Let’s try a thought experiment. We imagine that life is a game and that we are the characters on the playgrounds of this earth to observe, feel, act, love, communicate, be guided by the flow of life and connect with the world around us.
+
+For this purpose I would like to show you the 7 levels of this game and the corresponding game principles:"
+
+
+  # 7 Levels and their principles
+
+  principle1: "The Alice in Wonderland Principle"
+  principle2: "The record principle"
+  principle3: "The wardrobe principle"
+  principle4: "The magic glasses principle"
+  principle5: "The bingo card principle"
+  principle6: "The principle of healthy psychosis"
+  principle7: "The onion soup pot principle"
+
+
+  Level1Text1: "As if through invisible roots, we are all connected to the earth on which we walk.
+
+The countless locations it offers us become our playgrounds on which we experience the stories of our lives."
+  Level1Text2: "If we are mindful and meet our environment with alert senses, if we immerse ourselves completely in it for a moment, then the magic of each playground will reveal itself in front of us."
+  Level1Text3: "Imagine you are Alice and the playgrounds of your life are your wonderland. Observe, be amazed, perceive, but do not judge, be curious and interested, and you will discover so many new things, wonders and marvels."
+
+
+  Level2Text1: "Emotions are like the waves of the sea, they come and go, and when they burst, their noise is like music in your ears."
+  Level2Text2: "Imagine that the emotions you experience on the playgrounds of life are the records of your music collection. Confront yourselves with the different styles of music, for the greater the collection gets, from which you can draw, the more diverse your understanding of the world of emotions will become."
+  Level2Text3: "You will learn to see them as a valuable enrichment to your stories, as the music to your film of life.  Become aware of them, accept them and express them because they are part of the game."
+
+
+  Level3Text1: "Imagine if there was a huge walk-in wardrobe where all the costumes of the human groups were kept, and you could choose one."
+  Level3Text2: "The costumes you wear can be solid garments or mental constructs that you put on yourself to slip into a role and live it out in your stories. Some people like to consolidate and perfect their roles over the course of their lives, while others like to reinvent themselves from time to time."
+  Level3Text3: "The actions are the plots of your stories. They are the way you move and interact with your playground. Your actions become the script of your stories and the missions of your game."
+
+  Level4Text1: "Put on your magic glasses and look at the world through its lenses and you will feel a deep feeling of unconditional love for everything you see."
+  Level4Text2: "Love is like a filter through which we see the world. Once we have learned to put ourselves in the state of love, everything around us appears more colorful and we learn to understand things with the heart."
+  Level4Text3: "Love is like a superpower that transforms our everyday stories into missions for the good of the human family. When you play, always play in love, for with it comes tolerance, indulgence, understanding and ultimately healing."
+
+  Level5Text1: "Imagine every person is born with a very personal bingo card. There are clear areas and dark spots on it."
+  Level5Text2: "Through the confrontation with our fellow human beings we can show each other our dark spots and become aware of them in order to transform them into knowledge. The game in this case is to help each other to complete our bingo cards in order to grow together."
+
+  Level5Text3: "The expression are the dialogues of your stories. The way you communicate your knowledge, your experiences and your insights to your fellow human beings in order to share your puzzle pieces with them. Expression is the ability to share your wisdom with others."
+
+  Level6Text1: "Intuition is the autopilot that guides you through your stories. It unites the knowledge you have already gathered in the other levels. If you let it guide you, it will turn your stories into a game full of magical moments."
+
+  Level6Text2: "I dare make an assertion: I believe that by definition all humans are psychotic. With this in mind, I suggest that you become aware of your current perception of the world and then adapt your beliefs, supposed realities and leitmotifs so that your chosen psychosis makes you healthier and has a positive effect on your stories and the stories of your fellow players."
+
+  Level7Text1: "Imagine if we were actually all onions. Our cultures, languages, skin colors, social classes, political beliefs and personal imprints were the individual onion layers that enveloped us and from which we had to learn to unpack each other in order to recognize our human core in each other."
+
+  Level7Text2: "The connection is the moment in which we put ourselves and our stories into a larger context, recognize ourselves as part of the puzzle, and perceive ourselves as connected to everything."
+
+  Level7Text3: "Only then will we be able to realize that we are all bathing as onions in the same soup and that if we want to win this game, we can only do it together."
+
+
+  Level8Text1: "Imagine that the earth is a huge onion soup pot Colosseum in which is located the world stage on which the onions of all human groups live their stories as if they were plays. The Colosseum I am talking about has countless stages that represent the playgrounds of our world. It houses a record shop with every kind of music that can be heard and a costume shop whose collection includes every costume that has ever been worn."
+  Level8Text2: "Imagine that we are all together as onions in this Colosseum and that each of us wears magic glasses on his nose and a bingo card in his pocket. Imagine now that our autopilot is on and that we are all ready to go on our missions to perform together the greatest spectacle that the world stage has ever seen. May the game begin!"
+
+
+  # why am i telling you about this game
+
+  why1: "Although we all experience many stories every day, not all of them are suitable for promoting humanity and charity. Some stories will turn your dice for the worse and rob you of your humanness. You will find yourself in missions that can take you to your limits and beyond."
+  why2: "The 7 levels are meant to give you a point of reference on your way to understand why some stories don’t follow the principle of “Let’s turn the dice” and in which levels of your game you should still grow and what you haven’t considered or been able to. Sometimes you can’t see your playground clearly, or you get overwhelmed by your emotions. You are paralyzed and unable to act or constructively express yourself and accept your dark spots. Sometimes your magic glasses are cloudy and it is difficult for you to see what surrounds you with love and understanding. Your world view is gloomy and your psychosis destructive and you feel all alone and not connected to the world at all."
+
+  why3: "It will also not always be in your power to turn the dice for the better. You must always consider who plays, plays in freedom. Who is forced to play cannot play. Each of you must decide for yourselves to become a part of this game, just like your fellow players. The game can only be played if everyone knows the rules and respects them."
+  why4: "There will be people who will play their own game according to their own rules. You cannot force anyone to make the world a better place, to unite the people of the human family, or even to live and act benevolently and collectively."
+  why5: "But you can hold on to your convictions and these stories will also teach you, test you, let you grow, train your skills in mindfulness and charity, understanding, tolerance and indulgence. Wherever your path may lead you, you must never forget that you are not under the sole control of your stories. You never know what life will bring to you, who will be able to turn your dice in moments when you have almost given up playing."
+
+  why6: "I wish you confidence in life and in your fellow human beings, I wish you the courage to be driven by the flow of life to experience as many stories as possible. I wish you that some of these stories will be transformed into missions of dice turning."
+
+  why7: "I wish you that these stories will enrich you and encourage you on your way. And I personally wish that you will share these stories with your fellow human beings to give back to humankind its ancestral place in the world and to unite people in love and peace."
+
+
+  # this is a manifest
+
+  this-is-a-manifest1: "This is a manifesto for love and peace."
+  this-is-a-manifest2: "Let’s share our stories!"
+  this-is-a-manifest3: "Let’s turn the dice!"
+
+  # Impressum
+
+  project: "A Project of:"
+  praxis: "Practice for being HUMAN"
+  name: "Daniela Zimmermann"
+  adresse: "Obergässli 11"
+  ort: "2502 Biel"
+  internet: "www.praxisfürsmenschsein.ch"
