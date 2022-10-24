@@ -2,8 +2,8 @@ require "active_support/core_ext/integer/time"
 
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
-config.hosts << 'dice-game.ch'
-config.hosts << 'www.dice-game.ch'
+  config.hosts << 'dice-game.ch'
+  config.hosts << 'www.dice-game.ch'
   # Code is not reloaded between requests.
   config.cache_classes = true
 
@@ -17,6 +17,8 @@ config.hosts << 'www.dice-game.ch'
   config.consider_all_requests_local       = false
   config.action_controller.perform_caching = true
 
+  # per default commented, i decommented it
+  config.require_master_key = true
   # Ensures that a master key has been made available in either ENV["RAILS_MASTER_KEY"]
   # or in config/master.key. This key is used to decrypt credentials (and other encrypted files).
   # config.require_master_key = true
