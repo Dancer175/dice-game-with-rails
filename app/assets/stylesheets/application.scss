@@ -262,7 +262,7 @@ body {
         width: 66vh;
         height: auto;
         min-height: 90vh;
-        margin-bottom: 40px;
+        padding-bottom: 40px;
       }
       &-book-title {
         font-family: var(--book-title);
@@ -530,7 +530,8 @@ body {
         width: 66vh;
         height: auto;
         min-height: 90vh;
-        margin-bottom: 40px;
+        padding-bottom: 40px;
+        background-color: orange;
       }
       .page__number {
         position: absolute;

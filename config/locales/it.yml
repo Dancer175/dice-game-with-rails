@@ -5,7 +5,7 @@ it:
   manifest: "Un manifesto"
   manifest-long: "Un manifesto per l'amore e la pace"
   loveandpeace: "per l’amore e la pace"
-  praxis: "Studio per"
+  praxis-short: "Studio per"
   beinghuman: "essere umano"
 
   # copyright page
