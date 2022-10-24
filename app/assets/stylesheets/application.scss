@@ -230,7 +230,7 @@ body {
       position: absolute;
       width: 100%;
       height: 100%;
-      padding: 0 calc(var(--baseline) * 1.8);
+      //padding: 0 calc(var(--baseline) * 1.8);
       z-index: inherit;
       overflow-y: auto;
       transform: rotateY(180deg) translateZ(1px);
@@ -420,6 +420,7 @@ body {
       font-family: var(--title);
       font-size: calc(var(--base-size) * 1.20);
       text-align: center;
+      margin-top: 2vh;
     }
   }
 }
@@ -510,7 +511,6 @@ body {
       }
 
       &-back {
-        padding: 0 calc(var(--baseline) * 1.8);
         transform: none;
         cursor-event: none;
         cursor: default;
