@@ -86,8 +86,6 @@ body {
 }
 
 .book__page-sheets.active {
-  // for safari z-index
-  -webkit-transform: translate3d(0px, 0px, 0px);
 
   transition: transform 0.9s cubic-bezier(0.645, 0.045, 0.355, 1);
     -webkit-transition: transform 0.9s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -111,6 +109,7 @@ body {
   perspective: 1200px;
   position: relative;
   z-index: 1;
+
   @-moz-document url-prefix() {
     flex-direction: column;
     overflow-x: hidden;
@@ -196,7 +195,7 @@ body {
       position: relative;
       display: flex;
       flex-direction: column;
-      background-color: rgba(227,227,227,1);
+      background-color: none;
       background-image: none;
       }
     }
@@ -498,7 +497,7 @@ body {
         position: relative;
         display: flex;
         flex-direction: column;
-        background-color: rgba(227,227,227,1);
+        background-color: none;
         background-image: none;
       }
 
