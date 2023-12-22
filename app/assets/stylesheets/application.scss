@@ -67,20 +67,6 @@ body {
   }
 }
 
- #front #back {
-    color: white;
-    -webkit-perspective: 0;
-    -webkit-backface-visibility: hidden;
-    -webkit-transform: translate3d(0,0,0);
-    visibility:visible;
-    backface-visibility: hidden;
-}
-
-p {
-  position: relative;
-  transform: translate3d(0, 0, 2px) perspective(100px);
-}
-
 .cover {
   width: 124vh;
   height: 84vh;
@@ -100,6 +86,8 @@ p {
 }
 
 .book__page-sheets.active {
+  // for safari z-index
+  -webkit-transform: translate3d(0px, 0px, 0px);
 
   transition: transform 0.9s cubic-bezier(0.645, 0.045, 0.355, 1);
     -webkit-transition: transform 0.9s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -123,7 +111,6 @@ p {
   perspective: 1200px;
   position: relative;
   z-index: 1;
-
   @-moz-document url-prefix() {
     flex-direction: column;
     overflow-x: hidden;
