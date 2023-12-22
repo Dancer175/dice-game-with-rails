@@ -110,6 +110,9 @@ body {
   position: relative;
   z-index: 1;
 
+  transform: translateZ(1000px);
+  transform-style: flat;
+
   @-moz-document url-prefix() {
     flex-direction: column;
     overflow-x: hidden;
@@ -179,7 +182,6 @@ body {
       position: absolute;
       right: 0;
       cursor: pointer;
-      backface-visibility:visible;
       transform-style: preserve-3d;
         -webkit-transform-style: preserve-3d;
         -o-transform-style: preserve-3d;
