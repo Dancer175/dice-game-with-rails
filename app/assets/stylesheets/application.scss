@@ -58,9 +58,6 @@ body {
     display: none;
   }
 
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-
   /* Hide scrollbar for IE, Edge and Firefox */
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
@@ -68,6 +65,15 @@ body {
     overflow-y: auto;
     height: auto;
   }
+}
+
+ #front #back {
+    color: white;
+    -webkit-perspective: 0;
+    -webkit-backface-visibility: hidden;
+    -webkit-transform: translate3d(0,0,0);
+    visibility:visible;
+    backface-visibility: hidden;
 }
 
 .cover {
