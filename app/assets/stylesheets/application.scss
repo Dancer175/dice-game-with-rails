@@ -76,6 +76,11 @@ body {
     backface-visibility: hidden;
 }
 
+p {
+  position: relative;
+  transform: translate3d(0, 0, 2px) perspective(100px);
+}
+
 .cover {
   width: 124vh;
   height: 84vh;
