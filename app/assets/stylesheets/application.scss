@@ -110,6 +110,10 @@ body {
   position: relative;
   z-index: 1;
 
+  transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
+  overflow: hidden;
+
   @-moz-document url-prefix() {
     flex-direction: column;
     overflow-x: hidden;
@@ -120,11 +124,6 @@ body {
     width: 50%;
     height: 100%;
     display: grid;
-
-
-    overflow: visible !important;
-    transform-style: preserve-3d !important;
-    -webkit-transform-style: preserve-3d !important;
 
     transform: rotateY(0deg);
       -webkit-transform: rotateY(0deg);
@@ -168,7 +167,7 @@ body {
     }
 
     &--1 {
-      overflow: hidden;
+      //overflow: hidden;
 
       @-moz-document url-prefix() {
         overflow: auto;
