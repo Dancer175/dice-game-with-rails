@@ -53,14 +53,7 @@ body {
   background: -webkit-linear-gradient(90deg, hsla(90, 53%, 22%, 1) 0%, hsla(208, 100%, 23%, 1) 100%);
   overflow: hidden;
   position: relative;
-  /* Hide scrollbar for Chrome, Safari and Opera */
-  ::-webkit-scrollbar {
-    display: none;
-  }
 
-  /* Hide scrollbar for IE, Edge and Firefox */
-  -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
   @-moz-document url-prefix() {
     overflow-y: auto;
     height: auto;
@@ -109,9 +102,6 @@ body {
   perspective: 1200px;
   position: relative;
   z-index: 1;
-
-  -webkit-transform: translate3d(0px, 0px, 0px);
-  transform: translate3d(0px,0px,0px);
 
   @-moz-document url-prefix() {
     flex-direction: column;
