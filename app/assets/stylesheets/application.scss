@@ -163,7 +163,7 @@ body {
     }
 
     &--1 {
-      overflow: hidden;
+      //overflow: hidden;
 
       @-moz-document url-prefix() {
         overflow: auto;
@@ -171,8 +171,7 @@ body {
       }
       img {
         width: 100%;
-        max-width: 100%;
-        height: auto;
+        height: 100%;
       }
     }
 
