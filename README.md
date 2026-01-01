@@ -31,6 +31,8 @@ Diese Website wurde von mir selbst umgesetzt, inklusive:
 
 https://dice-game.ch
 
+Die blätterbare Buchansicht basiert auf modernen Webtechnologien und wird nicht von allen Browsern vollständig unterstützt (z. B. Firefox). Für eine optimale Darstellung empfehlen wir Google Chrome.
+
 ---
 
 *Dieses Projekt dient als Ausdruck meiner persönlichen Gedankenwelt, meiner Schreibweise und als Referenz für meine Fähigkeit, Inhalte konzeptionell zu strukturieren und technisch umzusetzen.*
