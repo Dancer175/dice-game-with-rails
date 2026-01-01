@@ -1,24 +1,36 @@
-# README
+# Let's turn the DICE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Dies ist der Code zur Website **dice-game.ch**.
 
-Things you may want to cover:
+Die Seite „Let’s turn the DICE“ ist ein persönliches Projekt, in dem die Metapher des Würfeldrehens als Lebensspiel genutzt wird, um Gedanken über Menschsein, Begegnung, Liebe, Verbundenheit und innere Haltung zu teilen. Die Inhalte stammen aus eigenen Reflexionen und Erlebnissen und fassen eine philosophische Erzählung über das Leben, menschliche Geschichten und gemeinsames Erfahren zusammen.
 
-* Ruby version
+## Inhalt & Ausrichtung
 
-* System dependencies
+Das Projekt versteht „das Spiel“ nicht als klassisches Würfelspiel, sondern als ein Spiel des Lebens:  
+Es lädt dazu ein, Erfahrungen, Begegnungen und menschliche Geschichten in einem spielerischen Rahmen zu betrachten und zu teilen.
 
-* Configuration
+Der Text vermittelt eine Vision der Verbundenheit, des Teilens von Erlebnissen und der Idee, dass wir alle in einem gemeinsamen Spiel des Lebens stehen.
 
-* Database creation
+## Umsetzung
 
-* Database initialization
+Diese Website wurde von mir selbst umgesetzt, inklusive:
 
-* How to run the test suite
+- Strukturierung und Publikation der Inhalte
+- Technische Umsetzung mit Ruby on Rails, HTML und CSS  
+- Mehrsprachige Optionen (DE / FR / IT / EN)
+- Eigenständige Gestaltung des Layouts und der Navigation
 
-* Services (job queues, cache servers, search engines, etc.)
+## Technologien
 
-* Deployment instructions
+- Ruby on Rails  
+- HTML / ERB  
+- CSS  
+- JavaScript (Grundlagen)
 
-* ...
+## Live-Version
+
+https://dice-game.ch
+
+---
+
+*Dieses Projekt dient als Ausdruck meiner persönlichen Gedankenwelt, meiner Schreibweise und als Referenz für meine Fähigkeit, Inhalte konzeptionell zu strukturieren und technisch umzusetzen.*
